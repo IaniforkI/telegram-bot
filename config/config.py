@@ -1,5 +1,5 @@
 from aiogram import Bot, Dispatcher, types
-admin = [1328019298, 5581745189]
-TOKEN="5520285419:AAFYAPXEA-tvzy4FP9IYwjK9dH0hrWsXtjQ"
-bot = Bot(TOKEN)
+admin = []
+token_bot=""
+bot = Bot(token_bot)
 dp=Dispatcher(bot)
